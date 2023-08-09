@@ -14,7 +14,7 @@ Welcome to the realm where lines of code intertwine to form the backbone of inno
 - 📬 **Reach Out:** Eager to connect? Drop me a line at adedejiosvaldo+github@gmail.com. Whether you're a fellow developer, a tech enthusiast, or just someone curious about the world of backend development, I'm always ready for a chat!
 
 ### 🛠️ Tech Arsenal:
-- Code Craft: Python, Java, Node.js
+- Code Craft:  Node.js
 - Data Sorcery: Databases, SQL, NoSQL
 - Cloud Environments: AWS, Azure
 - Version Alchemy: Git
