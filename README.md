@@ -49,7 +49,7 @@
 
 ### 💬 Contact Me
 
-[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adedejiosvaldo+hire@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Adedejiosvaldo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adedejiosvaldo+hire@gmail.com)
 
 ### 🚦 Stats
 
