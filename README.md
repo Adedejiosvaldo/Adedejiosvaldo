@@ -1,24 +1,63 @@
+<h1 align="center">Hi 👋, I'm Joseph Adewunmi</h1>
+<h3 align="center">A passionate backend developer from Lagos, Nigeria</h3>
 
-## 👨‍💻 A Software Engineer by Day | 🎓 CS Student whenever School is On | 🚀 Finding Solace @ NASA Homepage
+---
 
-Welcome to my celestial corner of the digital galaxy! I'm Joseph Adewunmi, your guide on this cosmic journey through code, curiosity, and the stars.
+![followers](https://img.shields.io/github/followers/Adedejiosvaldo?style=social)
+![stars](https://img.shields.io/github/stars/Adedejiosvaldo?style=social)
 
-- 🌟 **Software Alchemist:** As the sun rises, I'm immersed in the world of software engineering, crafting elegant solutions to intricate challenges. Each line of code I write is a step towards a brighter, more connected tomorrow.
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{Adedejiosvaldo}/count.svg" alt="Adedejiosvaldo :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
-- 📚 **Student of the Cosmos:** When school beckons, I transform into a relentless CS student, absorbing knowledge like a black hole devours light. The universe of computer science unfolds before me, and I'm eager to explore every constellation.
+- 🔭 I’m currently working on [pangu](https://github.com/yuebaix/pangu)
+- 🌱 I’m currently learning **NestJs**
+- 👨‍💻 All of my projects are available at [https://github.com/Adedejiosvaldo](https://github.com/Adedejiosvaldo)
 
-- 🌌 **Stargazing @ NASA:** My favorite sanctuary? The NASA homepage. With every visit, I launch into the boundless universe of discovery and exploration. It's a reminder that the stars are never out of reach, both in the sky and in my endeavors.
+- 📫 How to reach me **Adedejiosvaldo@gmail.com**
+- ⚡ Fun fact **I'm familiar with several code languages.ie javascript,python,golang**
 
-- 🛰️ **Liftoff Collaborations:** I'm always eager to join forces with fellow dreamers, innovators, and creators. If you have a project that's destined to soar to new heights, count me in! Together, we'll craft solutions that defy gravity.
+### 🛠 Tech Stack
 
-- 🌐 **Join the Orbit:** Whether you're a fellow space enthusiast, a coding adventurer, or simply seeking cosmic conversations, don't hesitate to connect. Reach me at adedejiosvaldo+github@gmail.com, and let's traverse the galaxies of ideas together.
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
+![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
+![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
 
-### 🚀 Tech Toolbox:
-- Languages: Python, JavaScript, Typescript
-- Engines: Node.js,
-- Constellations: HTML, CSS, Reactjs
-- Flight Control: Git, Version Control
 
-🔭 **GitHub Universe:** Explore my repository constellations, where each project is a testament to my passion for coding, learning, and embracing the unknown.
 
-Embark on this cosmic journey with me as we navigate the vast expanse of technology, knowledge, and the wonders of the universe. Together, we'll reach new frontiers and illuminate the darkest corners with the light of innovation! 🌠
+
+![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
+![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
+![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
+
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
+![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
+
+
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
+![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+
+
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+
+### 💬 Contact Me
+
+[![Gmail](https://img.shields.io/badge/-yuebaix@outlook.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adedejiosvaldo+hire@gmail.com)
+
+### 🚦 Stats
+
+<div>
+  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Adedejiosvaldo&theme=radical&show_icons=true" /></span>
+  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adedejiosvaldo&theme=radical&layout=compact&langs_count=10" /></span>
+</div>
+
+
+-----
