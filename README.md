@@ -11,7 +11,6 @@
 <br/>
 <img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
 
-- 🔭 I’m currently working on [pangu](https://github.com/yuebaix/pangu)
 - 🌱 I’m currently learning **NestJs**
 - 👨‍💻 All of my projects are available at [https://github.com/Adedejiosvaldo](https://github.com/Adedejiosvaldo)
 
