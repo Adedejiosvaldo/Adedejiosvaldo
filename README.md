@@ -1,62 +1,70 @@
 <h1 align="center">Hi 👋, I'm Joseph Adewunmi</h1>
-<h3 align="center">A passionate backend developer from Lagos, Nigeria</h3>
+<h3 align="center">Backend Developer | Cloud Enthusiast | AI Explorer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Adedejiosvaldo?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Adedejiosvaldo?style=social" alt="GitHub Stars">
+</p>
+
+<h4 align="center">Visitor's Count 👀</h4>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{Adedejiosvaldo}/count.svg" alt="Visitor's Count" />
+</p>
 
 ---
 
-![followers](https://img.shields.io/github/followers/Adedejiosvaldo?style=social)
-![stars](https://img.shields.io/github/stars/Adedejiosvaldo?style=social)
+### 👨‍💻 About Me  
+- 💡 **Problem Solver:** I build scalable and efficient backend solutions.  
+- 🚀 **Currently Exploring:** Advanced **Go**, **Cloud Technologies (AWS)**, and **AI Integration**.  
+- 🔨 **Tech Stack:** Golang, JavaScript, TypeScript, NestJS, Express, Gin, Docker, Kubernetes, Redis, MongoDB, PostgreSQL, MySQL, and more.  
+- 💼 **Projects & Open Source:** Check out my work at [GitHub](https://github.com/Adedejiosvaldo).  
+- 📫 **Reach Me At:** [Adedejiosvaldo@gmail.com](mailto:Adedejiosvaldo@gmail.com).  
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{Adedejiosvaldo}/count.svg" alt="Adedejiosvaldo :: Visitor's Count" /></p>
-<br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="yuebaix" />
+---
 
-- 🌱 I’m currently learning **NestJs**
-- 👨‍💻 All of my projects are available at [https://github.com/Adedejiosvaldo](https://github.com/Adedejiosvaldo)
+### 🛠 Tech Stack  
 
-- 📫 How to reach me **Adedejiosvaldo@gmail.com**
-- ⚡ Fun fact **I'm familiar with several code languages.ie javascript,python,golang**
+#### 🚀 Languages & Frameworks  
+![Go](https://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-fcd400?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)  
 
-### 🛠 Tech Stack
+#### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)  
+![Nginx](https://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)  
 
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
-![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![Go](http://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
-![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
+#### 🗄 Databases & Storage  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
 
+#### 🔧 Tools & Others  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)  
 
+---
 
+### 📊 GitHub Stats  
 
-![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
-![Nginx](http://img.shields.io/badge/-Nginx-2b9900?style=flat-square&logo=nginx&logoColor=white)
-![Docker](http://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](http://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
-
-![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-![Redis](http://img.shields.io/badge/-Redis-white?style=flat-square&logo=redis)
-![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-
-
-![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![Gradle](http://img.shields.io/badge/-Gradle-white?style=flat-square&logo=gradle&logoColor=09303a)
-![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
-
-
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-
-### 💬 Contact Me
-
-[![Gmail](https://img.shields.io/badge/-Adedejiosvaldo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:adedejiosvaldo+hire@gmail.com)
-
-### 🚦 Stats
-
-<div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=Adedejiosvaldo&theme=radical&show_icons=true" /></span>
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adedejiosvaldo&theme=radical&layout=compact&langs_count=10" /></span>
+<div align="center">
+  <img width="400px" height="160px" src="https://github-readme-stats.vercel.app/api?username=Adedejiosvaldo&theme=radical&show_icons=true" />
+  <img width="260px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adedejiosvaldo&theme=radical&layout=compact&langs_count=10" />
 </div>
 
+---
 
------
+### 📬 Connect with Me  
+
+[![Gmail](https://img.shields.io/badge/-Adedejiosvaldo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Adedejiosvaldo@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+
+---
+
+🚀 **Let's build something impactful!** 💡
