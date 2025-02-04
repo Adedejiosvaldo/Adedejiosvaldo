@@ -56,14 +56,7 @@
 <div align="center">
   <img width="400px" height="160px" src="https://github-readme-stats.vercel.app/api?username=Adedejiosvaldo&theme=radical&show_icons=true" />
   <img width="260px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adedejiosvaldo&theme=radical&layout=compact&langs_count=10" />
-</div>
-
----
-
-### 📬 Connect with Me  
-
-[![Gmail](https://img.shields.io/badge/-Adedejiosvaldo@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Adedejiosvaldo@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
+</div> 
 
 ---
 
