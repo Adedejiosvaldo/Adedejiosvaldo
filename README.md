@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph Adewunmi</h1>
 <h3 align="center">Backend Developer | Cloud Enthusiast | AI Explorer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Adedejiosvaldo?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Adedejiosvaldo?style=social" alt="GitHub Stars">
-</p>
-
-<h4 align="center">Visitor's Count 👀</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Adedejiosvaldo}/count.svg" alt="Visitor's Count" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me  
