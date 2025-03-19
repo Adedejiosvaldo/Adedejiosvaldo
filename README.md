@@ -4,11 +4,11 @@
 ---
 
 ### 👨‍💻 About Me  
-💡 Problem Solver: Crafting scalable, efficient backend systems.
-🚀 Currently Exploring: Advanced Go, AWS, and AI-driven APIs.
-🔨 Tech Stack: Golang, Node.js, TypeScript, NestJS, Express, Docker, Kubernetes, Redis, MongoDB, PostgreSQL.
-💼 Projects & Open Source: Dive into my repos below!
-📫 Reach Me: adedejiosvaldo@gmail.com
+- 💡 Problem Solver: Crafting scalable, efficient backend systems.
+- 🚀 Currently Exploring: Advanced Go, AWS, and AI-driven APIs.
+- 🔨 Tech Stack: Golang, Node.js, TypeScript, NestJS, Express, Docker, Kubernetes, Redis, MongoDB, PostgreSQL.
+- 💼 Projects & Open Source: Dive into my repos below!
+- 📫 Reach Me: adedejiosvaldo@gmail.com
 
 ---
 
