@@ -4,11 +4,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 💡 **Problem Solver:** I build scalable and efficient backend solutions.  
-- 🚀 **Currently Exploring:** Advanced **Go**, **Cloud Technologies (AWS)**, and **AI Integration**.  
-- 🔨 **Tech Stack:** Golang, JavaScript, TypeScript, NestJS, Express, Gin, Docker, Kubernetes, Redis, MongoDB, PostgreSQL, MySQL, and more.  
-- 💼 **Projects & Open Source:** Check out my work at [GitHub](https://github.com/Adedejiosvaldo).  
-- 📫 **Reach Me At:** [Adedejiosvaldo@gmail.com](mailto:Adedejiosvaldo@gmail.com).  
+💡 Problem Solver: Crafting scalable, efficient backend systems.
+🚀 Currently Exploring: Advanced Go, AWS, and AI-driven APIs.
+🔨 Tech Stack: Golang, Node.js, TypeScript, NestJS, Express, Docker, Kubernetes, Redis, MongoDB, PostgreSQL.
+💼 Projects & Open Source: Dive into my repos below!
+📫 Reach Me: adedejiosvaldo@gmail.com
 
 ---
 
@@ -41,13 +41,5 @@
 
 ---
 
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img width="400px" height="160px" src="https://github-readme-stats.vercel.app/api?username=Adedejiosvaldo&theme=radical&show_icons=true" />
-  <img width="260px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adedejiosvaldo&theme=radical&layout=compact&langs_count=10" />
-</div> 
-
----
 
 🚀 **Let's build something impactful!** 💡
