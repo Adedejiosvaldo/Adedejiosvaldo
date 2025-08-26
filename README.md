@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Joseph Adewunmi</h1>
-<h3 align="center">Backend Developer | Cloud Enthusiast | AI Explorer</h3>
+ 👋, I'm Joseph Adewunmi  
+**Backend-Focused Full-Stack Engineer | AI Agent & Workflow Developer**  
+
+I love turning ideas into **scalable systems** and **intelligent automations**.  
+My work spans healthcare, Web3, cybersecurity, and e-commerce—always with a focus on **performance, clarity, and long-term impact**.  
 
 <p align="center">
   <a href="https://github.com/Adedejiosvaldo" target="_blank">
@@ -16,9 +19,6 @@
 ---
 
 ### 👨‍💻 About Me  
-I’m a passionate backend engineer with 2+ years of experience building secure, scalable APIs and microservices across diverse domains—from puzzle-based Web3 platforms to microservices SaaS systems. I love working on cloud-native architectures, real-time applications, and recently, AI-powered agent systems.
-
-- 🔭 **Currently Building**: AI agents with CrewAI & Langchain, and cloud-native systems with Go & Kubernetes.
 - 🚀 **Tech Mission**: Solve real-world problems with clean code, system reliability, and product-first thinking.
 - 📚 **Learning Goals**: Deepen my expertise in distributed systems, multi-agent systems, and advanced DevOps.
 - 💬 **Ask Me About**: REST APIs, system design, cloud deployments, and building from 0 → 1.
