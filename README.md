@@ -67,7 +67,7 @@
 
 ---
 
-### 🚀 2024 Featured Work & Impact
+### 🚀 2025 Featured Work & Impact
 *A snapshot of high-impact systems I shipped in the last year.*
 
 | Project | Stack | Impact & Description |
@@ -80,18 +80,6 @@
 | **Mental Maze** | `NEAR` `Rust` `Node` | ⛓️ **Web3 Gaming.** Developed smart contracts for game state and escrow logic, handling deposits and automated prize distribution. |
 
 ---
-
-### 📜 Certifications
-* **Kubernetes and Cloud Native Associate (KCNA)** - Linux Foundation
-* **Google Cybersecurity Professional** - Google
-* **LangChain for LLM Application Development** - DeepLearning.AI
-
-
-### 📫 Let's Connect
-- **Email**: [adedejiosvaldo@gmail.com](mailto:adedejiosvaldo@gmail.com)
-- **LinkedIn**: [joseph-adewunmi](https://linkedin.com/in/joseph-adewunmi)
-- **GitHub**: [Adedejiosvaldo](https://github.com/Adedejiosvaldo)
-
 ---
 
 <p align="center">
