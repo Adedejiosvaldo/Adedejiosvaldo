@@ -74,12 +74,10 @@
 |:---|:---|:---|
 | **Solvium Quiz Game** | `FastAPI` `Redis` `Gemini` | 🎮 **3,000+ Active Players.** Built a high-load Telegram game with sub-second response times and a 99.99% success rate on blockchain reward payouts. |
 | **ContentForge** | `Next.js` `LLMs` `OpenAI Agents` | ✍️ **SaaS Product.** Full-stack AI platform for social media generation with brand voice learning, multi-tier subscription billing, and auto-scheduling. |
-| **Enterprise Portal** | `C#` `.NET` `Angular` | 🏢 **Enterprise Workflow.** *[Update Link/Desc]* High-performance admin dashboard for managing complex enterprise data and internal workflows. |
 | **Startup Validator** | `Google ADK` `CrewAI` | 🕵️‍♂️ **Multi-Agent System.** Orchestrates autonomous AI agents to critique business ideas, research market trends, and analyze VC funding data. |
 | **Security Patch Bot** | `Go` `GitHub Apps` | 🛡️ **DevSecOps.** Scans JS/Go/Python repos and automatically generates PRs for vulnerabilities, cutting manual triage time by **80%**. |
 | **Mental Maze** | `NEAR` `Rust` `Node` | ⛓️ **Web3 Gaming.** Developed smart contracts for game state and escrow logic, handling deposits and automated prize distribution. |
 
----
 ---
 
 <p align="center">
