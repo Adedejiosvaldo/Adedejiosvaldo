@@ -1,85 +1,56 @@
 <div align="center">
-  <h2>👋, I'm Joseph Adewunmi</h2>
-  <h3>Backend-Focused Full-Stack Engineer | AI Agent & Workflow Developer</h3>
-
+  <h2>👋 Hey, I'm Joseph Adewunmi</h2>
+  <h3>AI Systems Engineer · Backend · DevOps · Agents</h3>
   <p>
-    I love turning ideas into <strong>scalable systems</strong> and <strong>intelligent automations</strong>.<br>
-    My work spans healthcare, Web3, cybersecurity, and e-commerce—always with a focus on <strong>performance, clarity, and long-term impact</strong>.
+    I build <strong>backends</strong>, the <strong>infrastructure</strong> they run on,<br>
+    and <strong>AI agents</strong> on top of both.
   </p>
-
-  <div>
-    <a href="https://github.com/Adedejiosvaldo" target="_blank">
-      <img src="https://img.shields.io/github/followers/Adedejiosvaldo?label=Follow&style=social" />
+  <p>
+    <a href="https://linkedin.com/in/joseph-adewunmi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Joseph_Adewunmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:adedejiosvaldo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://linkedin.com/in/joseph-adewunmi" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Joseph_Adewunmi-blue?style=flat-square&logo=linkedin" />
-    </a>
-  </div>
+    <img src="https://img.shields.io/badge/CKAD-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  </p>
+  <sub>📍 Lagos, Nigeria · 🌍 Open to remote roles & relocation</sub>
 </div>
-
 ---
-
-### 👨‍💻 About Me
-- 🚀 **Tech Mission**: Solve real-world problems with clean code, system reliability, and product-first thinking.
-- 📚 **Current Focus**: Distributed systems, Multi-agent workflows (CrewAI/LangGraph), and Kubernetes/Cloud Native architecture.
-- 💬 **Ask Me About**: High-load backend systems, Smart Contract integration, **C#/.NET architecture**, and building from 0 → 1.
-
----
-
-### 🛠️ Tech Stack
-
-#### 🧠 Languages & Core
-![Go](https://img.shields.io/badge/-Go-69d7e4?style=flat-square&logo=go&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-#### 🏗️ Backend & Frameworks
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-#### 🎨 Frontend
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-3596ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-#### 🧰 Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-#### 🧠 AI & Agents
-![Langchain](https://img.shields.io/badge/-Langchain-1E1E1E?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/-CrewAI-000?style=flat-square&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-### 🚀 2025 Featured Work & Impact
-*A snapshot of high-impact systems I shipped in the last year.*
-
-| Project | Stack | Impact & Description |
+ 
+### 🔨 Building Now
+ 
+| Project | What it does | Stack |
 |:---|:---|:---|
-| **Solvium Quiz Game** | `FastAPI` `Redis` `Gemini` | 🎮 **3,000+ Active Players.** Built a high-load Telegram game with sub-second response times and a 99.99% success rate on blockchain reward payouts. |
-| **ContentForge** | `Next.js` `LLMs` `OpenAI Agents` | ✍️ **SaaS Product.** Full-stack AI platform for social media generation with brand voice learning, multi-tier subscription billing, and auto-scheduling. |
-| **Startup Validator** | `Google ADK` `CrewAI` | 🕵️‍♂️ **Multi-Agent System.** Orchestrates autonomous AI agents to critique business ideas, research market trends, and analyze VC funding data. |
-| **Security Patch Bot** | `Go` `GitHub Apps` | 🛡️ **DevSecOps.** Scans JS/Go/Python repos and automatically generates PRs for vulnerabilities, cutting manual triage time by **80%**. |
-| **Mental Maze** | `NEAR` `Rust` `Node` | ⛓️ **Web3 Gaming.** Developed smart contracts for game state and escrow logic, handling deposits and automated prize distribution. |
-
+| 🛡️ **[NDPA Lens](https://lens.taxcafe.pro)** · [repo](https://github.com/Adedejiosvaldo/ndpa-lens) | Scans any website for Nigeria Data Protection Act compliance gaps. **Live and free to try.** | `NestJS` `TypeScript` |
+| 💸 **[Azaman](https://github.com/Adedejiosvaldo/azaman-engine)** | Upload a Nigerian bank statement and get an instant breakdown of where your money went. | `Python` `LLMs` |
+| 🧠 **EKE** · Executable Knowledge Engine | Multi-agent system that reads operational docs and turns them into callable agent skills over MCP. | `Python` `MCP` `Multi-agent` |
+ 
+### 🚀 Shipped
+ 
+| Project | Result | Stack |
+|:---|:---|:---|
+| 🎮 **[Solvium Quiz Game](https://github.com/Solvium/SolviumAI)** | Telegram quiz game with **3,000+ active players**, sub-second responses and on-chain reward payouts. | `FastAPI` `Redis` `Gemini` |
+| 🔐 **[Security Patch Bot](https://github.com/Adedejiosvaldo/github_security_patch_monitor)** | GitHub App that scans JS/Go/Python repos and opens fix PRs for vulnerable dependencies. Cut manual triage by **~80%**. | `Go` `GitHub Apps` |
+| 🕵️ **[Startup Validator](https://github.com/Adedejiosvaldo/startup_validator_agent)** | Agents that critique a business idea, research the market and pull VC funding data. | `Google ADK` `CrewAI` |
+| ⛓️ **[Mental Maze](https://github.com/Mentalmaze/near-quiz-agent)** | Smart contracts for game state, escrow and automated prize payouts. | `NEAR` `Rust` `Node` |
+| ✍️ **ContentForge** | AI social-content SaaS with brand-voice learning, tiered billing and auto-scheduling. | `Next.js` `OpenAI Agents` |
+ 
 ---
-
+ 
+### 🛠️ Stack
+ 
 <p align="center">
-  <strong>Let’s turn great ideas into scalable systems. Open to collaboration, remote work, and solving hard problems.</strong>
+  <img src="https://skillicons.dev/icons?i=go,cs,dotnet,py,ts,nestjs,fastapi,postgres,redis&perline=9" /><br><br>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,githubactions,angular,nextjs,tailwind&perline=8" />
 </p>
+<p align="center">
+  🤖 <strong>AI:</strong> Multi-agent systems (CrewAI · LangGraph · Google ADK) · MCP · RAG
+</p>
+---
+ 
+<p align="center">
+  ✍️ I write about backend, AI and startup engineering in <strong>Under the Hood</strong> on Substack.<br><br>
+  <strong>Let's turn great ideas into scalable systems.</strong>
+</p>
+ 
